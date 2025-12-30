@@ -18,4 +18,4 @@ A colorful, priority-based To-Do List application built with HTML, CSS, and Java
 ## Usage
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/Apikshya12/todo-app.git
+   git clone https://github.com/Apikshya12/to-do-app.git
